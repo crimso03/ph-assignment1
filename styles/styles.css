@@ -36,3 +36,52 @@
     border-width: 1px;
    
   }
+  .banner{
+    background-color:#C6E4D6 ;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 20px;
+    border-radius: 24px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .banner-content{
+    margin-top: 117px;
+    margin-bottom: 117px;
+    margin-left: 60px;
+    margin-right: 64px;
+    width: 622px;
+    height: 325px;
+  }
+  .br{
+    color:#0e0e0e ;
+    opacity: 50%;
+    font-size: 24px;
+    font-weight: 500px;
+  }
+.bh{
+    font-size: 56px;
+    font-weight: bold;
+    color:#0E0E0E ;
+    margin-top: 16px;
+
+}
+.ex{
+    background-color:#006A50;
+    border-radius: 8px;
+    color:#FFFFFF ;
+    padding: 17px 34px;
+    border: none;
+    margin-bottom: 117px;
+    margin-top: 24px;
+
+
+}
+.colamn{
+    height: 400px;
+    width: 474px;
+    margin: 80px 60px 80px 64px;
+    
+
+
+}
